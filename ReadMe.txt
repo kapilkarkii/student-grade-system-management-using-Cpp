@@ -1,16 +1,9 @@
 ============================================================
   Student Grade Management System
   Introduction to C++ - Mini Project
-  Texas College of Management & IT
-  Bachelor of Information Technology (BIT)
-  First Year / First Semester
 ============================================================
 
 PROJECT TITLE  : Student Grade Management System
-SUBJECT        : Introduction to C++
-LECTURER       : Mr. Ashish Gautam (PhD Scholar)
-STUDENT NAME   : Kapil Karki
-
 ------------------------------------------------------------
 FILES INCLUDED
 ------------------------------------------------------------
